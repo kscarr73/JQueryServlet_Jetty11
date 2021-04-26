@@ -15,8 +15,8 @@ These are all included in the bundle that is created, and can be accessed via th
 * FullCalendar 3.9.0
 * JavaScript Tmpl
 * Quill Editor v1.3.7:  /jsjq/quill/quill.min.js
- * /jsjq/quill/quill.bubble.min.css
- * /jsjq/quill/quill.snow.min.css
+  * /jsjq/quill/quill.bubble.min.css
+  * /jsjq/quill/quill.snow.min.css
 
 ```html
         <link href="/jsjq/bootstrap/css/bootstrap.min.css"         rel="stylesheet" media="screen">
