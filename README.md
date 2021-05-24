@@ -7,12 +7,11 @@ These are all included in the bundle that is created, and can be accessed via th
 * jQuery 3.6.0
 * jQuery-UI 1.12.1
 * jsPlumb 2.15.5
-* Ace Editor 1.4.2
-* moment 2.23.0
-* BootStrap 5.0.0-beta3 
-* ckeditor 5 11.2.0
+* Ace Editor 1.4.12
+* moment 2.29.1
+* BootStrap 5.0.1
 * DataTables 1.10.24
-* FullCalendar 3.9.0
+* FullCalendar 5.7.0
 * JavaScript Tmpl
 * Quill Editor v1.3.7:  /jsjq/quill/quill.min.js
   * /jsjq/quill/quill.bubble.min.css
