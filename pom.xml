@@ -5,7 +5,7 @@
 	<groupId>com.progbits.web</groupId>
 	<artifactId>JQueryServlet_Jetty11</artifactId>
 	<packaging>bundle</packaging>
-	<version>3.6.0-2</version>
+	<version>3.6.0-3</version>
 	<name>Jetty 11 JQuery / DataTables / Bootstrap</name>
 	<url>http://maven.apache.org</url>
     
@@ -13,11 +13,11 @@
 		Includes:
         
 		jquery 3.6.0
-		datatables 1.10.24 with Buttons, Select, and other plugins
-		bootstrap 4.6.0
+		datatables 1.11.0 with Buttons, Select, and other plugins
+		bootstrap 5.0.2
 		require 2.3.6
 		JavaScript-Load-Image 2.20.1
-        
+        aceeditor 1.4.12
         &lt;script type="text/javascript" src="/jsjq/jquery.min.js"&gt;&lt;/script&gt;
         &lt;script type="text/javascript" src="/jsjq/datatables/datatables.bs4.min.js"&gt;&lt;/script&gt;
 	</description>
@@ -27,9 +27,9 @@
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
 		<jquery.version>3.6.0</jquery.version>
-		<bootstrap.version>5.0.1</bootstrap.version>
-		<DataTables.version>1.10.24</DataTables.version>
-		<jsPlumb.version>2.15.5</jsPlumb.version>
+		<bootstrap.version>5.0.2</bootstrap.version>
+		<DataTables.version>1.11.0</DataTables.version>
+		<jsPlumb.version>2.15.6</jsPlumb.version>
 		<fullcalendar.version>5.7.0</fullcalendar.version>
 		<moment.version>2.29.1</moment.version>
 		<quill.version>1.3.7</quill.version>

@@ -6,14 +6,16 @@ These are all included in the bundle that is created, and can be accessed via th
 
 * jQuery 3.6.0
 * jQuery-UI 1.12.1
-* jsPlumb 2.15.5
+* jsPlumb 2.15.6
 * Ace Editor 1.4.12
 * moment 2.29.1
-* BootStrap 5.0.1
-* DataTables 1.10.24
+* BootStrap 5.0.2
+* DataTables 1.11.0
 * FullCalendar 5.7.0
 * JavaScript Tmpl
-* Quill Editor v1.3.7:  /jsjq/quill/quill.min.js
+* jsTree 3.3.12
+* Quill Editor v1.3.7:  
+  * /jsjq/quill/quill.min.js
   * /jsjq/quill/quill.bubble.min.css
   * /jsjq/quill/quill.snow.min.css
 
@@ -28,7 +30,7 @@ These are all included in the bundle that is created, and can be accessed via th
 
         <script src="/jsjq/aceeditor/ace.js" ></script>
 
-        <script src="/jsjq/jsPlumb-2.8.6-min.js" ></script>
+        <script src="/jsjq/jsPlumb-min.js" ></script>
 
 	<script src="/jsjq/moment.min.js" ></script>        
 	<script src="/jsjq/fullcalendar/fullcalendar.min.js" ></script>        
